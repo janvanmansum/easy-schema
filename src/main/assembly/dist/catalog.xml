@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <system systemId="http://easy.dans.knaw.nl/schemas/md/2016/ddm.xsd" uri="md/2016/ddm.xsd"/>
+
+    <system systemId="http://easy.dans.knaw.nl/schemas/dcx/2012/10/dcx.xsd" uri="dcx/2012/10/dcx.xsd"/>
+    <system systemId="http://easy.dans.knaw.nl/schemas/dcx/2012/10/dcx-dai.xsd" uri="dcx/2012/10/dcx-dai.xsd"/>
+    <system systemId="http://easy.dans.knaw.nl/schemas/dcx/2016/dcx-gml.xsd" uri="dcx/2016/dcx-gml.xsd" />
+
+    <system systemId="http://easy.dans.knaw.nl/schemas/vocab/2015/identifier-type/identifier-type.xsd" uri="vocab/2015/identifier-type.xsd"/>
+    <system systemId="http://easy.dans.knaw.nl/schemas/vocab/2015/narcis-type.xsd" uri="vocab/2015/narcis-type.xsd"/>
+    <system systemId="http://easy.dans.knaw.nl/schemas/vocab/2012/10/abr-type.xsd" uri="vocab/2012/abr-type.xsd" />
+
+    <system systemId="http://www.w3.org/2001/03/xml.xsd" uri="3rdparty/xml.xsd" />
+    <system systemId="http://dublincore.org/schemas/xmls/qdc/dcmitype.xsd" uri="3rdparty/dcmitype.xsd"/>
+    <system systemId="http://dublincore.org/schemas/xmls/qdc/dc.xsd" uri="3rdparty/dc.xsd"/>
+    <system systemId="http://dublincore.org/schemas/xmls/qdc/dcterms.xsd" uri="3rdparty/dcterms.xsd" />
+    <system systemId="http://schemas.opengis.net/gml/3.1.1/profiles/gmlsfProfile/1.0.0/gmlsf.xsd" uri="3rdparty/gmlsf.xsd" />
+    <system systemId="http://www.w3.org/1999/xlink.xsd" uri="3rdparty/xlink.xsd" />
+</catalog>
